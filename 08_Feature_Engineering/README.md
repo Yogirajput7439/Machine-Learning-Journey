@@ -102,8 +102,8 @@ taaki machine learning model better performance de sake.
 
 ## 🧠 Why Feature Engineering is Important?
 
-- Model accuracy improve hoti hai
-- Overfitting kam hota hai
+- Model accuracy will be improve
+- Overfitting will be decrease 
 - Model zyada stable hota hai
 - Real-world data ke liye mandatory hota hai
 
