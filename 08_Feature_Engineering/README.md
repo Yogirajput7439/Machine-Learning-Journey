@@ -104,7 +104,8 @@ taaki machine learning model better performance de sake.
 
 - Model accuracy will be improve
 - Overfitting will be decrease 
-- Model zyada stable hota hai
+- Model will be more stable
+- And it will be get the minumum time.
 - Real-world data ke liye mandatory hota hai
 
 ---
