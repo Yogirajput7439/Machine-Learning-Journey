@@ -6,3 +6,4 @@ Data visualization is the important process in machine learning journey.
 # How to apply feature engineering on our model.
 ---
 # Update the data visualization technique
+Matplotlib is used to visualise data 
