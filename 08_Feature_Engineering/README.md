@@ -10,7 +10,7 @@ Feature Engineering ka main goal hota hai:
 ## 📌 What is Feature Engineering?
 
 Feature engineering is the process of:
-- new features banana
+- new features banana add New features 
 - useless features remove karna
 - data ko transform karna
 taaki machine learning model better performance de sake.
