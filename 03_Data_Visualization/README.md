@@ -8,3 +8,4 @@ Data visualization is the important process in machine learning journey.
 # Update the data visualization technique
 Matplotlib is used to visualise data 
 Seaborn is used to data visualization 
+new feature add
