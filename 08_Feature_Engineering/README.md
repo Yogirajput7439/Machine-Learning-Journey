@@ -189,7 +189,7 @@ All datasets used in this folder are either:
 ## 📝 How to Run
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Yogirajput7439/AI-ML-Model-Training-Journey/tree/main/08_Feature_Engineering>
 cd Data-Visualization/notebooks
 jupyter notebook
 ```
