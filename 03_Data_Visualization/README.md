@@ -10,3 +10,4 @@ Matplotlib is used to visualise data
 Seaborn is used to data visualization 
 new feature add
 This is a updating the readme file for the better look
+seaborn as sns you can save it for use
