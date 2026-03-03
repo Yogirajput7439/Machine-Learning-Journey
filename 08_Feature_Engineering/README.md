@@ -9,6 +9,7 @@ This section demonstrates how I transform raw data into **meaningful insights** 
 
 **Yogesh Rajput**
 YouTube: *Tech With Yogi*
+visualization tool used here.
 
 ---
 
@@ -16,7 +17,7 @@ YouTube: *Tech With Yogi*
 
 The main goal of this folder is to:
 
-* Understand data before modeling
+* Understand data before modeling 
 * Discover patterns, trends and anomalies
 * Support feature engineering and model decisions
 * Communicate insights clearly for both technical and non‑technical audiences
