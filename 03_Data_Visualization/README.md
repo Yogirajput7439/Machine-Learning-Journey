@@ -65,6 +65,7 @@ This folder covers complete data visualization workflow:
 * Shape and data types
 * Missing value inspection
 * Basic statistics
+* Outliers 
 
 ### 2️⃣ Univariate Analysis
 
