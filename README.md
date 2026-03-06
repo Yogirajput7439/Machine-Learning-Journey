@@ -1,7 +1,7 @@
 # 📘 Machine Learning Journey – Yogesh Rajput
 
 Hi, I am Yogesh Rajput.  
-This repository contains my complete Machine Learning learning journey with theory,
+This repository contains my complete Machine Learning journey with theory,
 hands-on notebooks and real-world mini projects.
 
 My goal is to build strong foundations in Data Science & Machine Learning and become a
@@ -19,7 +19,7 @@ job-ready data scientist.
 06_ml_Projects
 
 
-Each folder contains practice notebooks, examples and explanations.
+Each folder contains practice notebooks, examples and explanations, with comments.
 
 ---
 
