@@ -1,248 +1,94 @@
-# 📊 Data Visualization – Machine Learning Projects Update this 
+# Feature Engineering for Machine Learning
 
-Welcome to the **Data Visualization** folder of my Machine Learning repository.
-This section demonstrates how I transform raw data into **meaningful insights** using industry‑standard Python visualization libraries and clear analytical thinking.
+This repository contains a collection of **Feature Engineering techniques implemented using Python and Jupyter Notebooks**. Feature engineering is a crucial step in building high-performance Machine Learning models.
 
----
-
-## 👤 Author
-
-**Yogesh Rajput**
-YouTube: *Tech With Yogi*
-visualization tool used here.
-Seaborn & Matplotlib Was used to Visualization 
+The notebooks in this repository demonstrate practical approaches to transforming raw data into meaningful features that improve model performance.
 
 ---
 
-## 🎯 Objective
+## Project Overview
 
-The main goal of this folder is to:
+Feature Engineering plays a critical role in the success of Machine Learning models. In this project, multiple techniques are implemented and explained using practical datasets and step-by-step code.
 
-* Understand data before modeling 
-* Discover patterns, trends and anomalies
-* Support feature engineering and model decisions
-* Communicate insights clearly for both technical and non‑technical audiences
-
-This folder focuses on **Exploratory Data Analysis (EDA)** and **visual storytelling**.
+Each notebook focuses on a specific feature engineering concept used in real-world ML pipelines.
 
 ---
 
-## 🗂 Folder Structure
+## Feature Engineering Techniques Covered
+
+The repository includes implementations of the following techniques:
+
+* Handling Missing Values
+* Encoding Categorical Variables
+* Feature Scaling (Standardization & Normalization)
+* Feature Transformation
+* Outlier Detection and Treatment
+* Feature Binning / Discretization
+* Date and Time Feature Extraction
+* Feature Selection Techniques
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
+## Repository Structure
 
 ```
-Data-Visualization/
+Feature-Engineering/
 │
-├── datasets/
-│   └── *.csv
-│
-├── notebooks/
-│   └── *.ipynb
-│
-├── images/
-│   └── saved_plots
-│
+├── missing_value_handling.ipynb
+├── categorical_encoding.ipynb
+├── feature_scaling.ipynb
+├── outlier_detection.ipynb
+├── feature_transformation.ipynb
+├── feature_selection.ipynb
 └── README.md
 ```
 
 ---
 
-## 🧰 Tools & Libraries Used
+## How to Use
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly (for interactive visualizations)
+1. Clone this repository
 
----
-
-## 📌 What You Will Find in This Folder
-
-This folder covers complete data visualization workflow:
-
-### 1️⃣ Data Understanding
-
-* Dataset overview
-* Shape and data types
-* Missing value inspection
-* Basic statistics
-
-### 2️⃣ Univariate Analysis
-
-* Distribution plots
-* Count plots
-* Histograms
-* Box plots
-
-Purpose:
-
-> Understand the behaviour of individual features.
-
----
-
-### 3️⃣ Bivariate Analysis
-
-* Feature vs target relationships
-* Scatter plots
-* Bar plots
-* Grouped statistics
-
-Purpose:
-
-> Identify relationships between two variables.
-
----
-
-### 4️⃣ Multivariate Analysis
-
-* Correlation matrix
-* Heatmaps
-* Pair plots
-
-Purpose:
-
-> Understand how multiple features interact together.
-
----
-
-### 5️⃣ Missing Value & Outlier Visualization
-
-* Missing value heatmaps
-* Outlier detection using boxplots
-
-Purpose:
-
-> Support data cleaning and preprocessing decisions.
-
----
-
-### 6️⃣ Feature Insight for Machine Learning
-
-All visualizations are used to support:
-
-* Feature selection
-* Feature transformation
-* Handling skewed distributions
-* Detecting multicollinearity
-
----
-
-## 📊 Types of Visualizations Implemented
-
-* Histogram
-* KDE Plot
-* Count Plot
-* Bar Chart
-* Line Plot
-* Scatter Plot
-* Box Plot
-* Violin Plot
-* Heatmap
-* Pair Plot
-* Interactive plots (Plotly)
-
----
-
-## 🚀 End‑to‑End Visualization Workflow
-
-1. Load dataset
-2. Data inspection
-3. Data cleaning analysis using visuals
-4. Univariate analysis
-5. Bivariate analysis
-6. Multivariate analysis
-7. Feature insights
-8. Final observations
-
----
-
-## 🧠 How This Folder Helps in Real‑World ML Projects
-
-This visualization pipeline helps to:
-
-* Reduce wrong feature usage
-* Detect data leakage risks
-* Improve model stability
-* Improve explainability
-
-Good visualization directly improves model performance indirectly by improving data quality.
-
----
-
-## 🧪 Example Use‑Cases Covered
-
-* Classification dataset exploration
-* Regression dataset distribution analysis
-* Imbalanced dataset visualization
-* Feature correlation study
-
----
-
-## 📁 Dataset Source
-
-All datasets used in this folder are either:
-
-* Public datasets
-* Practice datasets for learning purpose
-
----
-
-## 📝 How to Run
-
-```bash
-git clone <https://github.com/Yogirajput7439/AI-ML-Model-Training-Journey/tree/main/08_Feature_Engineering>
-cd Data-Visualization/notebooks
-jupyter notebook
+```
+git clone https://github.com/your-username/your-repository-name.git
 ```
 
----
+2. Navigate to the project directory
 
-## 📌 Recommended Usage for Recruiters
+```
+cd your-repository-name
+```
 
-This folder shows my ability to:
-
-* Think analytically about data
-* Convert raw data into business insights
-* Choose correct visualization techniques
-* Prepare data for machine learning pipelines
+3. Open the notebooks using Jupyter Notebook, VS Code, or Google Colab.
 
 ---
 
-## 🏆 Highlights
+## Learning Objective
 
-* Clean and reproducible notebooks
-* Clearly labelled plots
-* Business‑oriented insights
-* Feature driven visualization approach
+The main goal of this repository is to build a strong understanding of **Feature Engineering techniques used in Machine Learning workflows**.
 
----
+It can be useful for:
 
-## 📚 Learning Focus
-
-This folder is part of my continuous learning journey in:
-
-* Data analysis
-* Machine learning
-* Model interpretability
+* Data Science beginners
+* Machine Learning practitioners
+* Students building ML portfolios
 
 ---
 
-## 🔮 Future Improvements
+## Author
 
-* Dashboard creation
-* Automated EDA reports
-* Advanced interactive visual analytics
-
----
-
-## 🤝 Contribution
-
-Suggestions and improvements are always welcome.
-Feel free to raise issues or pull requests.
-
----
-
-## ⭐ Final Note
-
-This folder is designed to demonstrate **how a data scientist actually understands data before building models** — not just how models are trained.
+**Yogesh Rajput**
+Machine Learning Enthusiast
+YouTube Channel: Tech With Yogi
