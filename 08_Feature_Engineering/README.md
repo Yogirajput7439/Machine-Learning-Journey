@@ -62,7 +62,7 @@ Feature-Engineering/
 1. Clone this repository
 
 ```
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Yogirajput7439/AI-ML-Model-Training-Journey.git
 ```
 
 2. Navigate to the project directory
