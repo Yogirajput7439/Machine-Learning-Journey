@@ -68,7 +68,7 @@ git clone https://github.com/Yogirajput7439/AI-ML-Model-Training-Journey.git
 2. Navigate to the project directory
 
 ```
-cd your-repository-name
+AI-ML-Model-Teaining-Journey
 ```
 
 3. Open the notebooks using Jupyter Notebook, VS Code, or Google Colab.
