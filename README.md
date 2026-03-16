@@ -49,6 +49,7 @@ Each folder contains practice notebooks, examples and explanations, with comment
 - Decision Tree
 - Random Forest
 - Naive Bayes
+- XGBoost 
 - Support Vector Machine (SVM)
 
 ---
