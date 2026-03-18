@@ -109,6 +109,7 @@ Purpose:
 
 * Missing value heatmaps
 * Outlier detection using boxplots
+* Outliers Detection using Seaborn 
 
 Purpose:
 
