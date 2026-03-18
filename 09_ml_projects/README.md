@@ -32,6 +32,7 @@
 - Random Forest
 - KNN
 - Naive Bayes
+- Xgboost 
 - Support Vector Machine
 
 ---
@@ -47,7 +48,7 @@
 - MSE
 - RMSE
 - R² Score
-
+- classification report 
 ---
 
 ## 📚 Who is this repository for?
