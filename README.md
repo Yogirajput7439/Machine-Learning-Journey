@@ -25,9 +25,9 @@ Each folder contains practice notebooks, examples and explanations, with comment
 
 ## 🧠 Topics Covered
 
-- Data Cleaning
+- Data Cleaning 
 - Handling Missing Values
-- Outlier Detection
+- Outlier Detection With Seaborn 
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Label Encoding
