@@ -18,7 +18,7 @@ Each notebook focuses on a specific feature engineering concept used in real-wor
 
 The repository includes implementations of the following techniques:
 
-* Handling Missing Values
+* Handling Missing Values 
 * Encoding Categorical Variables
 * Feature Scaling (Standardization & Normalization)
 * Feature Transformation
@@ -26,6 +26,7 @@ The repository includes implementations of the following techniques:
 * Feature Binning / Discretization
 * Date and Time Feature Extraction
 * Feature Selection Techniques
+* Feature Min and Max Scaling
 
 ---
 
