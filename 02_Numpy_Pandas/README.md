@@ -42,6 +42,7 @@ Pandas is used for data handling, cleaning, and analysis.
 * Data Cleaning
 
   * Handling Missing Values
+  * Filling Null Values (using Mean(), Median(), Mode())
   * Removing Duplicates
 * Data Selection & Filtering
 * GroupBy Operations
