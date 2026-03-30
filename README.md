@@ -66,7 +66,7 @@ Each folder contains practice notebooks, examples and explanations, with comment
 
 ### 📌 Employee Turnover Prediction
 - Problem: Predict whether an employee will leave the company
-- Model: KNN, Decision Tree
+- Model: KNN, Decision Tree, SVM
 - Metrics: Accuracy, Recall, F1-score
 - Dataset Source: Kaggle
 
