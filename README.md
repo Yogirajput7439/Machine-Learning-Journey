@@ -58,7 +58,7 @@ Each folder contains practice notebooks, examples and explanations, with comment
 
 ### 📌 Credit Risk Prediction
 - Problem: Predict whether a customer will default on a loan
-- Model: Random Forest / Logistic Regression
+- Model: Random Forest / Logistic Regression / SVM 
 - Metrics: Accuracy, Precision, Recall, F1-score
 - Dataset Source: Kaggle
 
