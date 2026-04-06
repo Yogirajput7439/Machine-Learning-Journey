@@ -9,7 +9,7 @@ This folder represents my complete understanding of **NumPy** and **Pandas**, th
 
 After building a strong foundation in Python, I moved on to learning **data manipulation and analysis** using NumPy and Pandas.
 
-This phase helped me understand how to work with real-world datasets efficiently.
+This phase helped me understand how to work with real-world datasets efficiently & how to get insights from Data.
 
 ---
 
