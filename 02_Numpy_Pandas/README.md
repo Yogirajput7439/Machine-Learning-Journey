@@ -63,8 +63,7 @@ Pandas is used for data handling, cleaning, and analysis.
 ---
 
 ## 🎯 Next Step
-
-Now, I will move forward to:
+I Passed From :
 
 * 📈 Data Visualization (Matplotlib, Seaborn)
 * 🤖 Machine Learning Algorithms
