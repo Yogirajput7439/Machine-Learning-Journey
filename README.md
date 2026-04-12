@@ -92,6 +92,7 @@ Each project folder contains:
 - matplotlib
 - seaborn
 - Jupyter Notebook
+- Jupyter Lab
 
 ---
 
