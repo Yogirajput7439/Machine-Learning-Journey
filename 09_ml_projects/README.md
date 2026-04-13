@@ -17,7 +17,7 @@
 3. Data cleaning
 4. Exploratory Data Analysis (EDA)
 5. Feature engineering
-6. Train-test split
+6. Train-test split 
 7. Model training
 8. Model evaluation
 9. Result & conclusion
@@ -81,4 +81,5 @@ All projects are created for learning and educational purpose.
 Follow and learn with me on my channel  
 **Tech With Yogi**
 
+Thanks 👍 Ti visit Here...
 Happy Learning Thank You 😊
