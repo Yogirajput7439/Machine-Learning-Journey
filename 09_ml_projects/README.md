@@ -81,5 +81,5 @@ All projects are created for learning and educational purpose.
 Follow and learn with me on my channel  
 **Tech With Yogi**
 
-Thanks 👍 Ti visit Here...
+Thanks 👍 To visit Here...
 Happy Learning Thank You 😊
